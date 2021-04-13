@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Gerador de Senha" title="Gerador de Senha" src=".github/icon.png" width="220px" />
+  <img alt="Gerador de Senha" title="Gerador de Senha" src=".github/icon.png" width="100px" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="gerador" src=".github/gerador.png" width="100%">
+  <img alt="gerador" src=".github/gerador.png" width="50%" height="50%">
 </p>
 
 ## 🧪 Tecnologias
