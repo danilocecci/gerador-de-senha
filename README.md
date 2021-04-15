@@ -49,7 +49,8 @@ $ expo start
 
 ## 💻 Projeto
 
-O Gerador de Senha é uma ferramenta a fim de auxiliar o usuário na criação de senhas de segurança de alto nível.
+O Gerador de Senha é uma ferramenta a fim de auxiliar o usuário na criação de senhas de segurança de alto nível. 
+Desenvolvido durante o evento [React Native Insider](https://sujeitoprogramador.com/insider-1/) do [Sujeito Programador](https://www.youtube.com/c/Sujeitoprogramador/).
 
 
 ## :memo: Licença
